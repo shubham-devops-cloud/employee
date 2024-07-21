@@ -4,7 +4,7 @@ Employee microservice is also designed in Golang to manage employee's informatio
 
 ## Database
 
-- [Elasticsearch](../elasticsearch) => Employee application stores information in easticsearch
+- [Elasticsearch] => Employee application stores information in easticsearch
 
 ## Environment Variable
 
