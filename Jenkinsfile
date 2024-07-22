@@ -3,4 +3,5 @@ pythonBuild{
     ecrTagName = 'employee'
     targetPom = 'pom.xml'
     dockerFile = 'Dockerfile'
+    projectType = 'go'
 }
